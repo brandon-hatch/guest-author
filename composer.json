@@ -3,7 +3,7 @@
 	"description": "Clearlink Modified version of Guest Author plugin",
 	"type": "wordpress-plugin",
 	"version": "2.3",
-	"license": "GNU General Public License v3.0",
+	"license": "GPL-3.0-or-later",
 	"minimum-stability": "stable",
 	"require": {
 		"php": ">=5.2.4"
