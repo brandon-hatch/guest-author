@@ -1,0 +1,24 @@
+{
+	"name": "clearlink/guest-authors",
+	"description": "Clearlink Modified version of Guest Author plugin",
+	"type": "wordpress-plugin",
+	"version": "2.3",
+	"license": "GNU General Public License v3.0",
+	"minimum-stability": "stable",
+	"require": {
+		"php": ">=5.2.4"
+	},
+	"authors": [{
+		"name": "WebFactory",
+		"email": "business@webfactoryltd.com"
+	},
+		{
+			"name": "Milo Welch",
+			"email": "milo.welch@clearlink.com"
+		},
+		{
+			"name": "Brandon Hatch",
+			"email": "brandon.hatch@clearlink.com"
+		}
+	]
+}

@@ -10,6 +10,8 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Add a guest author to any post without needing to register the guest author as a user on your site.
 
+URL TO PLUGIN HERE:
+https://wordpress.org/plugins/guest-author/#developers
 
 == Features ==
 * ✍️ Behaves as if guest authors were regular authors.
